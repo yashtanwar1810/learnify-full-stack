@@ -1,9 +1,9 @@
 
 function App() {
-
+  
   return (
     <>
-      app.jsx
+      <h1 className="text-5xl font-bold">hello amit bhai</h1>
     </>
   )
 }
